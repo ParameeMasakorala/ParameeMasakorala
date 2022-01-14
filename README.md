@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paramee Masakorala</h1>
-<h3 align="center">I'm an IT Undergraduate🎓 & interesting in programming👩‍💻</h3><br>
+<h3 align="center">I'm an IT Undergraduate🎓 & interesting in programming👩‍💻</h3>
 
 <h2 align="left">Skills</h2>
 <h3 align="left">🔸 Programming Languages</h3>
